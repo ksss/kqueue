@@ -1,6 +1,8 @@
 kqueue
 ===
 
+[![Build Status](https://travis-ci.org/ksss/kqueue.svg?branch=master)](https://travis-ci.org/ksss/kqueue)
+
 A binding of kqueue on Ruby.
 
 **kqueue** can use BSD system only. (because must be installed sys/event.h)
