@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    kqueue (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    power_assert (0.2.2)
+    rake (10.4.0)
+    rake-compiler (0.9.3)
+      rake
+    test-unit (3.0.7)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  kqueue!
+  rake
+  rake-compiler
+  test-unit
